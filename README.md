@@ -7,9 +7,7 @@ Jede Karte zeigt ein Bild, einen Titel, eine Beschreibung und einen „Importanc
 ## 🚀 Installation & Start
 
 1. **Projekt herunterladen**  
-   - Entweder per `git clone`  
-     `https://github.com/<dein-user>/shopping-list.git`  
-   - Oder ZIP-Datei von GitHub herunterladen und entpacken
+am einfachsten,  ZIP-Datei von GitHub herunterladen und entpacken
 
 2. **App starten**  
    - Öffne den Projektordner  
